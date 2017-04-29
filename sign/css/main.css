@@ -74,6 +74,14 @@ header {
   height: 100%;
 }
 
+h1 a {
+  color: white;
+}
+
+h1 a:hover {
+  color: grey;
+}
+
 section {
   max-width: 30em;
   margin: 0 auto;
